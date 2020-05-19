@@ -29,4 +29,5 @@ export class AppComponent {
 
   fecha: Date = new Date();
   nombrePersonal: string = 'richArd oSwaldo negrÓn gonZáles';
+  videoUrl: string = 'https://www.youtube.com/embed/PYgTyz4Y-xs';
 }
