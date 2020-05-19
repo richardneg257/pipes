@@ -28,4 +28,5 @@ export class AppComponent {
   });
 
   fecha: Date = new Date();
+  nombrePersonal: string = 'richArd oSwaldo negrÓn gonZáles';
 }
